@@ -29,6 +29,22 @@ Check out the live demo [here](https://next-js-anime-filter-scroll.vercel.app/).
 - **Data Fetching**: Utilizes server-side rendering (SSR) in Next.js to fetch anime data efficiently.
 - **Styling**: The app features a dark theme with modern CSS for a visually appealing interface.
 
+## Live Images For Laptop
+
+![Laptop View](./livedemoimages/1.png)
+
+![Laptop View](./livedemoimages/2.png)
+
+![Laptop View](./livedemoimages/3.png)
+
+![Laptop View](./livedemoimages/4.png)
+
+![Laptop View](./livedemoimages/5.png)
+
+![Laptop View](./livedemoimages/6.png)
+
+## Live Images For Mobile Responsive
+![Mobile View](./livedemoimages/mobile.png)
 ## Getting Started
 
 Follow these steps to set up the project on your local machine:
