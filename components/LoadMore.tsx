@@ -26,7 +26,6 @@ function LoadMore({ filters }: LoadMoreProps) {
   const [currentPage, setCurrentPage] = useState(2);
 
   useEffect(() => {
-    // Reset the page and data when filters change
     setData([]);
     setCurrentPage(2);
   }, [filters]);

@@ -17,7 +17,6 @@ const Filter = () => {
 
   const router = useRouter();
 
-  // Get today's date in YYYY-MM-DD format
   const today = new Date().toISOString().split("T")[0];
 
   const handleFilterToggle = () => {

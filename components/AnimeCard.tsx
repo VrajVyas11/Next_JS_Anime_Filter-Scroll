@@ -29,9 +29,9 @@ interface Prop {
 }
 
 function AnimeCard({ anime, index }: Prop) {
-  // Ensure required fields are available
+
   if (!anime || !anime.image?.original || !anime.name) {
-    return null; // Skip rendering if data is incomplete
+    return null; 
   }
 
   return (
